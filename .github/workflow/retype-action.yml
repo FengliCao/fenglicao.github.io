@@ -1,24 +1,20 @@
-name: Publish Retype powered website to GitHub Pages
+name: GitHub Action for Retype
 on:
-  workflow_dispatch:
   push:
     branches:
       - mui_book
 jobs:
-  publish:
-    name: Publish to retype branch
-
+  job1:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
 
       - uses: retypeapp/action-build@latest
 
       - uses: retypeapp/action-github-pages@latest
         with:
           branch: retype
-          dirctory: mui_book
+          directory: mui_book
+          update-branch: true
