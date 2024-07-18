@@ -17,4 +17,3 @@ jobs:
         with:
           branch: retype
           directory: mui_book
-          update-branch: true
