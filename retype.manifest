@@ -1,0 +1,205 @@
+{
+  "version": "3.5.0",
+  "created": "2024-07-17T10:56:11Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "pages/designer/funcmap/index.html"
+    },
+    {
+      "path": "pages/designer/img/function_map.png"
+    },
+    {
+      "path": "pages/designer/img/item.png"
+    },
+    {
+      "path": "pages/designer/img/key_evt_mgr.png"
+    },
+    {
+      "path": "pages/designer/img/layout_desc.png"
+    },
+    {
+      "path": "pages/designer/img/layout_list.png"
+    },
+    {
+      "path": "pages/designer/img/layout.png"
+    },
+    {
+      "path": "pages/designer/img/main.png"
+    },
+    {
+      "path": "pages/designer/img/menu_edit.png"
+    },
+    {
+      "path": "pages/designer/img/menu_list.png"
+    },
+    {
+      "path": "pages/designer/img/menu.png"
+    },
+    {
+      "path": "pages/designer/img/param_edit.png"
+    },
+    {
+      "path": "pages/designer/img/tree_edid.png"
+    },
+    {
+      "path": "pages/designer/index.html"
+    },
+    {
+      "path": "pages/designer/layout/index.html"
+    },
+    {
+      "path": "pages/designer/menu/index.html"
+    },
+    {
+      "path": "pages/designer/tree/index.html"
+    },
+    {
+      "path": "pages/develop/index.html"
+    },
+    {
+      "path": "pages/faq/index.html"
+    },
+    {
+      "path": "pages/fonteditor/create/index.html"
+    },
+    {
+      "path": "pages/fonteditor/exceltbl/index.html"
+    },
+    {
+      "path": "pages/fonteditor/fontset/index.html"
+    },
+    {
+      "path": "pages/fonteditor/img/font_class.png"
+    },
+    {
+      "path": "pages/fonteditor/img/main.png"
+    },
+    {
+      "path": "pages/fonteditor/index.html"
+    },
+    {
+      "path": "pages/imageeditor/index.html"
+    },
+    {
+      "path": "pages/index.html",
+      "old": true
+    },
+    {
+      "path": "pages/simulator/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/prism.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static/img/add.png"
+    },
+    {
+      "path": "static/img/block.png"
+    },
+    {
+      "path": "static/img/build.png"
+    },
+    {
+      "path": "static/img/code.png"
+    },
+    {
+      "path": "static/img/copy.png"
+    },
+    {
+      "path": "static/img/crate.png"
+    },
+    {
+      "path": "static/img/del.png"
+    },
+    {
+      "path": "static/img/down.png"
+    },
+    {
+      "path": "static/img/edit.png"
+    },
+    {
+      "path": "static/img/left.png"
+    },
+    {
+      "path": "static/img/mui.ico"
+    },
+    {
+      "path": "static/img/reload.png"
+    },
+    {
+      "path": "static/img/right.png"
+    },
+    {
+      "path": "static/img/rst.png"
+    },
+    {
+      "path": "static/img/simulator.png"
+    },
+    {
+      "path": "static/img/str.png"
+    },
+    {
+      "path": "static/img/tool.png"
+    },
+    {
+      "path": "static/img/up.png"
+    },
+    {
+      "path": "version.txt"
+    }
+  ]
+}

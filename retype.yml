@@ -1,0 +1,19 @@
+input: .
+output: ./mui_book
+
+url: fenglicao.github.io/mui_book
+
+branding:
+  logo: static/img/mui.ico
+  title: MUI开发文档
+  label: v1.0
+
+links:
+- text: 主页
+  icon: home
+  link: readme.md
+
+locale: zh
+
+footer:
+  copyright: "CVTE MNT &copy; Copyright {{ year }}. All rights reserved."
